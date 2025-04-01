@@ -5,7 +5,7 @@ DBDT is an effort in combining dozen of tools I've used and/or created in one (h
 
 
 Currently, the application functionality includes, but is not limited to:
-* access, data browsing, SQL query executon for interbase / firebird databases. 
+* access, data browsing, SQL query and script executon for interbase / firebird databases.
 * importing, browsing and preparing data for database injections from CSV (or similar, character delimited text files) and excel (xls, xlsx) data sheets  
 and other stuff... 
 
